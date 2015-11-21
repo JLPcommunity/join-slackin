@@ -1,4 +1,3 @@
-
 # slackin
 
 A little server that enables public access
@@ -21,7 +20,7 @@ Read more about the [motivations and history](http://rauchg.com/slackin) behind 
 
 #### Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/rauchg/slackin/tree/0.6.0)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/rauchg/slackin/tree/0.7.1)
 
 #### OpenShift
 
